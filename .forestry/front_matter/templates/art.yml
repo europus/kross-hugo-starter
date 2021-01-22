@@ -1,4 +1,12 @@
 ---
 label: art
 hide_body: false
-fields: []
+fields:
+- name: wweef
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: wweef
+  description: rf
